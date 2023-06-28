@@ -1,5 +1,5 @@
 {
-    "homepage": "http://stevecoding100.github.io/expense-app",
+    "homepage": "http://stevecoding100.github.io/expense-tracker-app",
     "name": "frontend",
     "version": "0.1.0",
     "private": true,
@@ -43,5 +43,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^5.0.0"
     }
 }
